@@ -5,7 +5,7 @@
   <h2>
     <a href="https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc"><strong>Frontend Mentor Challenge</strong></a>  </h2>
     <p>
-    <a href="#">My Solution</a>
+    <a href="https://kylekasprzyk.github.io/frontend-mentor-single-price-grid-component/">My Solution</a>
   </p>
 </div>
 
@@ -32,8 +32,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Links
 
-- Solution URL: [#](#)
-- Live Site URL: [#](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-PNnlf-Exzz)
+- [Live Site URL](https://kylekasprzyk.github.io/frontend-mentor-single-price-grid-component/)
 
 ## Built with
 
