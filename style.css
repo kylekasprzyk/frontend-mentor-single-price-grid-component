@@ -196,7 +196,7 @@ p {
 }
 
 .guarantee {
-    padding: 1.5rem 0 1rem 0;
+    padding: 1.5rem 0 0.6875rem 0;
 }
 
 .community-text {
@@ -267,7 +267,7 @@ ul {
     }
 
     .card-padding {
-        padding: 2.5rem 2.5rem 2.188rem 2.5rem;
+        padding: 2.5rem 2.5rem 2.5rem 2.5rem;
         max-height: 16.188rem;
     }
 
