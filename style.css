@@ -303,6 +303,10 @@ ul {
     .cta-left {
         width: 50%;
     }
+    
+    .cta-left h2 {
+            padding-bottom: 1.375rem;
+    }
 
     .cta-why {
         width: 50%;
