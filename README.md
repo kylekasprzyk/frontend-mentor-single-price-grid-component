@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 <div align="center">
   <h1><img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor"> Frontend Mentor - Single price grid component solution</h1>
   <h2>
