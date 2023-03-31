@@ -352,8 +352,8 @@ footer a {
 
 
 .typing-text {
-    width: 47ch;
-    animation: typing 3500ms steps(47), blink 500ms step-end infinite alternate;
+    width: 60ch;
+    animation: typing 3500ms steps(60), blink 500ms step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden;
 }
